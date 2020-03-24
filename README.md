@@ -2,10 +2,10 @@
 
 Programs to downlaod cancer data sets.
 
-## Install
+## Get
 
 ```sh
-git clone https://github.com/Guardiome/cancer_data
+git clone https://github.com/guardiome/cancer_data
 ```
 
 ## Use
