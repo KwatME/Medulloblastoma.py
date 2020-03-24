@@ -5,7 +5,7 @@ Programs to downlaod cancer data sets.
 ## Get
 
 ```sh
-git clone https://github.com/guardiome/cancer_data
+git clone https://github.com/Guardiome/cancer_data
 ```
 
 ## Use
