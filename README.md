@@ -10,4 +10,4 @@ git clone https://github.com/Guardiome/cancer_data
 
 ## Use
 
-See [notebook](notebook) for applications.
+See [notebook](notebook).
