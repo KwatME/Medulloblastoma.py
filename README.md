@@ -1,6 +1,6 @@
 # Cancer Data
 
-Programs to downlaod cancer data sets.
+Programs for downlaoding various cancer data.
 
 ## Get
 
