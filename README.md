@@ -1,11 +1,11 @@
-# Cancer Data
+# Get Medulloblastoma Data
 
-Programs for downloading various cancer data.
+Program for downloading medulloblastoma data.
 
 ## Get
 
 ```sh
-pip install git+https://github.com/Guardiome/cancer_data
+pip install git+https://github.com/kwatme/get_medulloblastoma_data
 ```
 
 ## Use
