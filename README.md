@@ -4,7 +4,7 @@ Program for downloading medulloblastoma data.
 
 ## Get
 
-[Download](.).
+Download this.
 
 ## Use
 
